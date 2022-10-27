@@ -1,0 +1,26 @@
+* {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#bordeRedondeados{
+border: solid 5px;
+border-color: red;
+border-radius: 50%;
+}
+ul{
+    list-style-type: none;
+}
+.texto{
+    font-weight: bold;
+    font-size: 500%;
+}
+.agrandarTexto{
+    font-size: 200%; 
+    
+}
+#cajaBibliografia{
+    display: inline-block;
+    width: 50%;
+}
